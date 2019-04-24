@@ -1,0 +1,25 @@
+{
+  "name": "morse-code-converter",
+  "version": "1.0.0",
+  "description": "Convert text to morse and morse to text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkyremi/morse-code-converter.git"
+  },
+  "keywords": [
+    "morse",
+    "code",
+    "convert",
+    "text"
+  ],
+  "author": "Rémi Testa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkyremi/morse-code-converter/issues"
+  },
+  "homepage": "https://github.com/funkyremi/morse-code-converter#readme"
+}
