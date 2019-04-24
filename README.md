@@ -1,7 +1,7 @@
 # Morse code converter
 
-[![npm version](https://img.shields.io/npm/v/deepl.svg)](https://www.npmjs.com/package/deepl)
-[![Dependency Status](https://david-dm.org/funkyremi/deepl.svg)](https://david-dm.org/funkyremi/deepl)
+[![npm version](https://img.shields.io/npm/v/morse-code-converter.svg)](https://www.npmjs.com/package/morse-code-converter)
+[![Dependency Status](https://david-dm.org/funkyremi/morse-code-converter.svg)](https://david-dm.org/funkyremi/morse-code-converter)
 
 Convert text to morse and morse to text
 
