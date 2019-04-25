@@ -15,10 +15,8 @@ npm install morse-code-converter --save
 ``` js
 const morse = require("morse-code-converter");
 
-const code = morse.textToMorse("Hey. How are you?");
-console.log(code); // .... . _.__ ._._._   .... ___ .__   ._ ._. .   _.__ ___ .._ .._..
-const text = morse.morseToText(code);
-console.log(text); // HEY.HOWAREYOU?
+const code = morse.textToMorse('Hey how are you?'); // .... . -.--   .... --- .--   .- .-. .   -.-- --- ..- ..-..
+const text = morse.morseToText(code); // HEY HOW ARE YOU?
 ```
 
 ## License

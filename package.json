@@ -1,6 +1,6 @@
 {
   "name": "morse-code-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert text to morse and morse to text",
   "main": "index.js",
   "scripts": {
